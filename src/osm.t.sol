@@ -1,4 +1,6 @@
-pragma solidity >=0.5.10;
+// SPDX-License-Identifier: MIT
+
+pragma solidity >=0.6.12;
 
 import "ds-test/test.sol";
 import {DSValue} from "ds-value/value.sol";

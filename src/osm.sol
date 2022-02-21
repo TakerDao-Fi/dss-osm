@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 /// osm.sol
 
 // Copyright (C) 2018-2020 Maker Ecosystem Growth Holdings, INC.
@@ -15,7 +17,7 @@
 // You should have received a copy of the GNU Affero General Public License
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-pragma solidity >=0.5.10;
+pragma solidity >=0.6.12;
 
 import "ds-value/value.sol";
 
